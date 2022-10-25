@@ -1,0 +1,80 @@
+[
+    {
+        "name":"HTML crash course.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png",
+        "instructor":{
+            "name":"Mehedi Hassan",
+            "img":"https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+            "education":"CSE, Deffodil University."
+        },
+        "description":"This super crash course is for absolute beginner.In this course you will know everything about html.",
+        "rating":"5",
+        "duration":"2.25 hr",
+        "price":"20"
+    },
+    {
+        "name":"CSS crash course.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png",
+        "instructor":{
+            "name":"Hasan Mahmud",
+            "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZC_95EVYM_FcC4b-LJg6XHL4p1E673azPuTMH92vOjnVJE0-dIyTszYt6teIip0PPcQs&usqp=CAU",
+            "education":"CSE, Chittagong University."
+        },
+        "description":"This crash course is for beginner.In this course you will know everything about Css3.This course will help you to improve your design sense. After finishing this course you will have enough confidence to design any web page.",
+        "rating":"4.5",
+        "duration":"3.50 hr",
+        "price":"30"
+    },
+    {
+        "name":"JavaScript beginer to advance.",
+        "img": "https://www.w3schools.com/whatis/img_js.png",
+        "instructor":{
+            "name":"Jubayer Akhlak",
+            "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgLKr-fh9rmWe5nKRNgCdxFPlUYWcGwaoIHExhC9HaYs_0j6b7RL3WTDPsIja5ceu7G8U&usqp=CAU",
+            "education":"CSE, Dhaka University."
+        },
+        "description":"Without any interaction maximum website is useless. If you want to start your web-development career, you will need to have a good knowledge in javascript.So in this course we have covered almost everything about javascript that you need to know to become a junior developer.",
+        "rating":"4.5",
+        "duration":"8.25 hr",
+        "price":"50"
+    },
+    {
+        "name":"React JS.",
+        "img": "https://www.datocms-assets.com/45470/1631110818-logo-react-js.png",
+        "instructor":{
+            "name":"Jubayer Akhlak",
+            "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgLKr-fh9rmWe5nKRNgCdxFPlUYWcGwaoIHExhC9HaYs_0j6b7RL3WTDPsIja5ceu7G8U&usqp=CAU",
+            "education":"CSE, Dhaka University."
+        },
+        "description":"To create modern frontend application you should know js framework/library.React is a famous js framework to build user interface.This course will help you to create application using react. This course covered basic to advance.",
+        "rating":"5",
+        "duration":"6.45 hr",
+        "price":"45"
+    },
+    {
+        "name":"Angular JS",
+        "img": "https://assets.stickpng.com/images/62a79606e42d729d928b175f.png",
+        "instructor":{
+            "name":"Farhan Ahmed",
+            "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgIUF7SE6CROioPfFm3jxwN5cPMxD_MobRdw&usqp=CAU",
+            "education":"CSE, NSU."
+        },
+        "description":"Angular Js is a Javascript library to build user interface.You will get proper guidelines to master in angular.Angular is litle tricky to learn. If you dont get easy tutorial you will fail to get it properly.So in this course we have tried to describe everything in easy way. ",
+        "rating":"4",
+        "duration":"7.25 hr",
+        "price":"50"
+    },
+    {
+        "name":"Phython With Django",
+        "img": "https://www.shuup.com/wp-content/uploads/2017/12/python-plus-django-1.jpg",
+        "instructor":{
+            "name":"Khurshid Alom",
+            "img":"https://cdn.hswstatic.com/gif/play/0b7f4e9b-f59c-4024-9f06-b3dc12850ab7-1920-1080.jpg",
+            "education":"CSE, Khulna University."
+        },
+        "description":"If you want to master in backend ,than you can consider this course.Django is a framework of python.For modern and advance backend development Django is the most favourite choice of developers.So learn this from our most talented and experienced instructor.",
+        "rating":"5",
+        "duration":"8.50 hr",
+        "price":"70"
+    }
+]
