@@ -1,0 +1,26 @@
+[
+    {
+        "_id": "02",
+        "name":"Mehedi Hassan",
+        "img":"https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "education":"CSE, Deffodil University."
+    },
+    {
+        "_id": "02",
+        "name":"Hasan Mahmud",
+            "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZC_95EVYM_FcC4b-LJg6XHL4p1E673azPuTMH92vOjnVJE0-dIyTszYt6teIip0PPcQs&usqp=CAU",
+            "education":"CSE, Chittagong University."
+    },
+    {
+        "_id": "03",
+        "name":"Jubayer Akhlak",
+            "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgLKr-fh9rmWe5nKRNgCdxFPlUYWcGwaoIHExhC9HaYs_0j6b7RL3WTDPsIja5ceu7G8U&usqp=CAU",
+            "education":"CSE, Dhaka University."
+    },
+    {
+        "_id": "04",
+        "name":"Khurshid Alom",
+        "img":"https://cdn.hswstatic.com/gif/play/0b7f4e9b-f59c-4024-9f06-b3dc12850ab7-1920-1080.jpg",
+        "education":"CSE, Khulna University."
+    }
+]
